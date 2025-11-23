@@ -18,7 +18,7 @@
 
   // --- char ranges copied/adapted from Bidier for robust RTL detection ---
   const RTL_RANGES = [
-    [0x0590,0x05FF], // Hebrew
+  
     [0x0600,0x06FF], // Arabic
     [0x0750,0x077F], // Arabic Supplement
     [0x08A0,0x08FF], // Arabic Extended-A
