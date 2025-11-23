@@ -4,7 +4,7 @@ Auto-detect RTL text on Reddit and set direction/text-align for those blocks (po
 
 ## Features
 
-- Detects Hebrew, Arabic and other RTL scripts
+- Detects  Arabic and other RTL scripts
 - Applies `direction: rtl` and `text-align: right` to posts, comments, titles and input fields when appropriate
 - Preserves inline code and pre blocks so monospace alignment is not broken
 - Live updates for dynamically loaded content
